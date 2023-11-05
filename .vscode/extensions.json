@@ -1,0 +1,55 @@
+{
+    "recommendations": [
+        // Essential for Python development: linting, IntelliSense, and debugging
+        "ms-python.python",
+
+        // Code formatter using Black for Python
+        "blackboard.vscode-black",
+
+        // Automatically generate docstrings for Python methods and classes
+        "njpwerner.autodocstring",
+
+        // Supercharge Git capabilities in VS Code — visualize code authorship, blame, etc.
+        "eamodio.gitlens",
+
+        // Review and manage GitHub pull requests directly in VS Code
+        "github.vscode-pull-request-github",
+
+        // All-in-one markdown plugin: shortcuts, table of contents, auto preview, etc.
+        "yzhang.markdown-all-in-one",
+
+        // A spell checker that works well with camelCase code
+        "streetsidesoftware.code-spell-checker",
+
+        // Annotate your comments: TODO, FIXME, and more
+        "aaron-bond.better-comments",
+
+        // Highlight TODO, FIXME and other annotations in your code
+        "gruntfuggly.todo-tree",
+
+        // Easily sort lines of text in many ways
+        "tyriar.sort-lines",
+
+        // Data preview extension to view & query data in various formats: CSV, JSON, Parquet, and more.
+        "randomfractalsinc.vscode-data-preview",
+
+        // Displays the size of the selected file in the VS Code status bar.
+        "mkxml.vscode-filesize",
+
+        // GitHub Copilot is your AI pair programmer. It suggests whole lines or blocks of code as you type.
+        "github.copilot",
+
+        // Offers rich support for working with Jupyter notebooks: run cells, view plots, debug, and more.
+        "ms-toolsai.jupyter",
+
+        // Isort is a Python utility / library to sort imports. This extension integrates isort into VS Code.
+        "tylerl0706.vscode-python-isort",
+
+        // Subtly change the workspace color to differentiate projects.
+        "johnpapa.vscode-peacock",
+
+        // Helps in showing the currently used Python interpreter's path in the status bar.
+        "tushortz.python-extended-path"
+    ]
+}
+  
