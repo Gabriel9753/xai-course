@@ -20,3 +20,4 @@ torch==2.1.0
 torchvision==0.16.0
 grad-cam==1.4.8
 opencv-python==4.8.1.78
+torchsummary==1.5.1
