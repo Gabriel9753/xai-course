@@ -30,3 +30,5 @@ GradCAM thus allows you to visualize which parts of an image are considered impo
 [[`Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization`](https://arxiv.org/abs/1610.02391)]
 
 [[`Pytorch Implementation`](https://github.com/jacobgil/pytorch-grad-cam)]
+
+[[`Anomaly Detection Dataset`](https://zenodo.org/records/8086136)]
